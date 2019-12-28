@@ -14,4 +14,4 @@ The Sequences List:
 2011_09_26_drive_0059;
 2011_09_26_drive_0091.
 
-The raw data can be download in KITTI official website. http://www.cvlibs.net/datasets/kitti/raw_data.php
+The raw data can be download in KITTI official website： http://www.cvlibs.net/datasets/kitti/raw_data.php.
